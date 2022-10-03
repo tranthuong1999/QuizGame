@@ -1,0 +1,33 @@
+{
+    "question" :[
+        {
+            "question": " Mục tiêu chủ yếu của Liên Xô khi thực hiện kế hoạch 5 năm (1946-1950) là gì?",
+            "option":["Khôi phục kinh tế, hàn gắn vết thương chiến tranh", "Củng cố quốc phòng an ninh", "Xây dựng cơ sở vật chất kĩ thuật cho chủ nghĩa xã hội","Công nghiệp hóa xã hội chủ nghĩa"],
+            "answer": "Khôi phục kinh tế, hàn gắn vết thương chiến tranh"
+        },
+    
+        {
+            "question":" Kế hoạch 5 năm (1946-1950) của Liên Xô đã hoàn thành trước thời hạn bao lâu?",
+            "option":["1 năm 3 tháng" ,"Củng cố quốc phòng an ninh","Xây dựng cơ sở vật chất kĩ thuật cho chủ nghĩa xã hội","Công nghiệp hóa xã hội chủ nghĩa"] ,
+            "answer": "1 năm 3 tháng"
+    
+        },
+        {
+            "question": "Tình hình chính trị của các nước Đông Âu trước chiến tranh thế giới thứ hai có đặc điểm gì?",
+            "option":["Bị phát xít Đức chiếm đóng"," Lệ thuộc vào Liên Xô","Là thuộc địa của các nước tư bản Tây Âu","Lệ thuộc vào các nước tư bản Tây Âu"],
+            "answer": "Bị phát xít Đức chiếm đóng"
+        },
+        {
+            "question": "Phân thức đại số A/B có đáp án xác định khi?",
+            "option":["B ≠ 0" ,"B ≥ 0" ,"B ≤ 0","A = 0"],
+            "answer": "B ≠ 0"
+        },
+    
+        {
+            "question": "Khởi nghĩa Bắc Sơn bùng nổ năm bao nhiêu?",
+            "option":["1939","1940","1941","1942"],
+            "answer": "1941"
+        }
+    ]
+  }
+
